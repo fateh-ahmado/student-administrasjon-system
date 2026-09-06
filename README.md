@@ -1,6 +1,6 @@
 # Student Administration System
 
-A simple Java program for managing students, courses, and grades at a department, controlled through a terminal menu.
+Java program for managing students, courses, and grades at a department, controlled through a terminal menu.
 
 ## Features
 
